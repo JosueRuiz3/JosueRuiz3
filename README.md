@@ -12,5 +12,5 @@ My name is Andy, I'm from Costa Rica and I'm a Programmer Junior
 
 ## Contact
 
-* Correo Electronico: andyjosue123.jr@gmail.com
+* E-mail: andyjosue123.jr@gmail.com
 * LinkedIn: linkedin.com/in/andy-ruiz-5250b8218
