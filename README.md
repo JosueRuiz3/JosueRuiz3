@@ -1,16 +1,15 @@
-# Hello 👋
+# Hola 👋
 
-My name is Andy, I'm from Costa Rica and I'm a Programmer Junior
+Mi nombre es Andy, soy de Costa Rica y soy desarrollador de software Junior
 
-* I'm currently a student of System Engineering in the Universidad Latina de Costa Rica.
 
-## Skills
+## Habilidades
 
-* I'm self-taught, I like to research and learn on my own.
-* Critical thinking, decision-making and problem-solving skills.
-* Passion for learning, I like to learn more every day.
+*Apasionado autodidacta con habilidades destacadas en investigación y aprendizaje independiente.
+*Destreza en pensamiento crítico, toma de decisiones y resolución de problemas.
+*Comprometido con el crecimiento continuo, disfruto aprendiendo cada día.
 
-## Contact
+## Contacto
 
 * E-mail: anjord302@gmail.com
 * LinkedIn: linkedin.com/in/andy-ruiz-5250b8218
