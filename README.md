@@ -5,11 +5,11 @@ Mi nombre es Andy, soy de Costa Rica y soy desarrollador de software Junior
 
 ## Habilidades
 
-*Apasionado autodidacta con habilidades destacadas en investigación y aprendizaje independiente.
+* Apasionado autodidacta con habilidades destacadas en investigación y aprendizaje independiente.
 
-*Destreza en pensamiento crítico, toma de decisiones y resolución de problemas.
+* Destreza en pensamiento crítico, toma de decisiones y resolución de problemas.
 
-*Comprometido con el crecimiento continuo, disfruto aprendiendo cada día.
+* Comprometido con el crecimiento continuo, disfruto aprendiendo cada día.
 
 ## Contacto
 
