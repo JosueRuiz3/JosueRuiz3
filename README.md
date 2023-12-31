@@ -1,6 +1,6 @@
 # Hola 👋
 
-Mi nombre es Andy, soy de Costa Rica y soy desarrollador de software Junior
+Mi nombre es Andy Josue, soy de Costa Rica y soy desarrollador de software Junior
 
 
 ## Habilidades
