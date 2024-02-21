@@ -14,4 +14,4 @@ Mi nombre es Andy Josue, soy de Costa Rica y soy desarrollador de software Junio
 ## Contacto
 
 * E-mail: anjord302@gmail.com
-* LinkedIn: linkedin.com/in/andy-ruiz-5250b8218
+* LinkedIn: https://www.linkedin.com/in/andy-josue-ruiz-diaz-5250b8218/
