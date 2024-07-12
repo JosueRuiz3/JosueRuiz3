@@ -1,6 +1,6 @@
 # Hola 👋
 
-Mi nombre es Andy Josue, soy de Costa Rica y soy desarrollador de software Junior
+Mi nombre es Andy Ruiz, soy de Costa Rica y soy Ingeniero de Sistemas Junior
 
 
 ## Habilidades
@@ -10,6 +10,32 @@ Mi nombre es Andy Josue, soy de Costa Rica y soy desarrollador de software Junio
 * Destreza en pensamiento crítico, toma de decisiones y resolución de problemas.
 
 * Comprometido con el crecimiento continuo, disfruto aprendiendo cada día.
+
+  ## Frontend
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- ReactJS
+- JQuery
+- ASP.NET MVC
+
+## Backend
+- JAVA
+- C#
+- .NET Framework
+- Spring Boot
+- .Net Core
+- REST API
+
+## Bases de datos
+- MySQL
+- SQL Server
+- Firebase
+- SQLite
+
+## Herramientas
+- Postman
 
 ## Contacto
 
