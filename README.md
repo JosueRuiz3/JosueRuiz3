@@ -20,10 +20,10 @@ Mi nombre es Andy Ruiz, soy de Costa Rica y soy Ingeniero de Sistemas Junior
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) ![.NET Framework](https://img.icons8.com/color/48/000000/net-framework.png) ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) ![REST API](https://img.icons8.com/color/48/000000/api-settings.png)
 
 ## Bases de datos
-- ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) ![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) ![SQLite](https://img.icons8.com/color/48/000000/sql.png)
+![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) ![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) ![SQLite](https://img.icons8.com/color/48/000000/sql.png)
 
 ## Herramientas
-- ![Postman](https://img.icons8.com/dusk/64/000000/postman-api.png) 
+![Postman](https://img.icons8.com/dusk/64/000000/postman-api.png) 
 
 
 ## Contacto
