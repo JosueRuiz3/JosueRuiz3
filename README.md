@@ -14,8 +14,7 @@ Mi nombre es Andy Ruiz, soy de Costa Rica y soy Ingeniero de Sistemas Junior, ap
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) ![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) ![SQLite](https://img.icons8.com/color/48/000000/sql.png)
 
 ## Herramientas
-![Postman](https://img.icons8.com/dusk/64/000000/postman-api.png) 
-
+![Postman](https://img.icons8.com/dusk/64/000000/postman-api.png) ![Google Cloud](https://img.icons8.com/color/48/000000/google-cloud.png)
 
 ## Contacto
 
