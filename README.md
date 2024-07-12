@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/de0864f5-24fb-4b13-bb0b-539f3578cd22)# Hola 👋
+# Hola 👋
 
 Mi nombre es Andy Ruiz, soy de Costa Rica y soy Ingeniero de Sistemas Junior
 
@@ -17,7 +17,7 @@ Mi nombre es Andy Ruiz, soy de Costa Rica y soy Ingeniero de Sistemas Junior
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![ReactJS](https://img.icons8.com/color/48/000000/react-native.png) ![jQuery](https://img.icons8.com/ios-filled/50/000000/jquery.png) 
 
 ## Backend
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) ![.NET Framework](https://img.icons8.com/color/48/000000/net-framework.png) ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) ![.Net Core](https://img.icons8.com/color/48/000000/net-core.png) ![REST API](https://img.icons8.com/color/48/000000/api-settings.png) REST API
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) ![.NET Framework](https://img.icons8.com/color/48/000000/net-framework.png) ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) ![.Net Core](https://img.icons8.com/color/48/000000/net-core.png) ![REST API](https://img.icons8.com/color/48/000000/api-settings.png)
 
 ## Bases de datos
 - ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL
