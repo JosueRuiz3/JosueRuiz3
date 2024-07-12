@@ -17,16 +17,13 @@ Mi nombre es Andy Ruiz, soy de Costa Rica y soy Ingeniero de Sistemas Junior
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![ReactJS](https://img.icons8.com/color/48/000000/react-native.png) ![jQuery](https://img.icons8.com/ios-filled/50/000000/jquery.png) 
 
 ## Backend
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) ![.NET Framework](https://img.icons8.com/color/48/000000/net-framework.png) ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) ![.Net Core](https://img.icons8.com/color/48/000000/net-core.png) ![REST API](https://img.icons8.com/color/48/000000/api-settings.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) ![.NET Framework](https://img.icons8.com/color/48/000000/net-framework.png) ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) ![REST API](https://img.icons8.com/color/48/000000/api-settings.png)
 
 ## Bases de datos
-- ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL
-- ![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) SQL Server
-- ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) Firebase
-- ![SQLite](https://img.icons8.com/color/48/000000/sql.png) SQLite
+- ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) ![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) ![SQLite](https://img.icons8.com/color/48/000000/sql.png)
 
 ## Herramientas
-- ![Postman](https://img.icons8.com/dusk/64/000000/postman-api.png) Postman
+- ![Postman](https://img.icons8.com/dusk/64/000000/postman-api.png) 
 
 
 ## Contacto
