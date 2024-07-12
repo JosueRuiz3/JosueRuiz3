@@ -11,7 +11,7 @@ Mi nombre es Andy Ruiz, soy de Costa Rica y soy Ingeniero de Sistemas Junior
 
 * Comprometido con el crecimiento continuo, disfruto aprendiendo cada día.
 
-# Habilidades Técnicas
+## Habilidades Técnicas
 
 ## Frontend
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![ReactJS](https://img.icons8.com/color/48/000000/react-native.png) ![jQuery](https://img.icons8.com/ios-filled/50/000000/jquery.png) 
