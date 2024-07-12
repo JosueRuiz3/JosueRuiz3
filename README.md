@@ -11,7 +11,7 @@ Mi nombre es Andy Ruiz, soy de Costa Rica y soy Ingeniero de Sistemas Junior
 
 * Comprometido con el crecimiento continuo, disfruto aprendiendo cada día.
 
-  ## Frontend
+## Frontend
 - HTML5
 - CSS3
 - Bootstrap
